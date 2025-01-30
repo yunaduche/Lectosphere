@@ -1,0 +1,33 @@
+
+backend/node_modules/
+
+backend/.env
+
+backend/.DS_Store
+
+backend/config/database.js
+
+# Logs
+frontend/logs
+frontend/*.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/lerna-debug.log*
+
+frontend/node_modules
+frontend/dist
+dist-ssr
+*.local
+
+# Editor directories and files
+frontend/vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
